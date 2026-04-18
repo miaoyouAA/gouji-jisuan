@@ -1,0 +1,6 @@
+{
+  "name": "Gouji Card Counter",
+  "description": "A customized and stylized card counting tracker for the Gouji (够级) card game, supporting fast inputs, 6 decks variation with specific 3s and Eagles rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
